@@ -28,11 +28,12 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 
 
 ## Synapses example
-
+    
+```
 - name: "say-me-something"
   signals:
-    - order: "say me something"
-    - order: "speak to me"
+    - order: "dis-moi quelque chose"
+    - order: "parle-moi"
   neurons:
     - sqlite_random:
         base: /home/pi/kalliope_fr/resources/db/FortunesDB.db
@@ -42,9 +43,6 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
         tts:
           pico2wave:
             cache: False
-    
-```
-
 
 ```
 
