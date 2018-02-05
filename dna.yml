@@ -1,0 +1,10 @@
+name: "sqlite_random"
+type: "neuron"
+author: "Papy_BernardO"
+
+kalliope_supported_version:
+  - 0.5
+
+tags:
+  - "sqlite"
+  - "random"

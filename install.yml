@@ -1,0 +1,12 @@
+---
+- name: Kalliope sqlite_random neuron install
+  hosts: localhost
+  gather_facts: no
+  connection: local
+  become: true
+
+  tasks:
+    - name: "Install packages"
+      apt:
+        name: sqlite3
+        update_cache: yes
