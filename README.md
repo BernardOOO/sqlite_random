@@ -48,7 +48,7 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 
 ## Notes
 
-> **Note:** This is an important note concerning the neuron
+> **Note:** The FortunesDB.db i provide is an exemple, made from Debian packages "Fortune" and "Fortune-fr".
 
 ## Licence
 
