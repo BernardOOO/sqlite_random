@@ -14,11 +14,11 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 
 (usage of a [table generator](http://www.tablesgenerator.com/markdown_tables) is recommended)
 
-| parameter        | required | default                       | choices                           | comments                     |
+| parameter        | required | default                       | values                           | comments                     |
 |------------------|----------|-------------------------------|-----------------------------------|------------------------------|
 | base | yes      |                               |The absolute path to the database |  |
 | table | yes       |                               | The table name |  |
-| parameter_name_3 | yes      | default_value_if_not_provided |                                   | description of the parameter |
+| column | yes      |  |     The column name                              |  |
 
 
 ## Return Values
