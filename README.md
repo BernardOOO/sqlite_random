@@ -52,6 +52,6 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 
 ## Licence
 
-Copyright (c) 2016. All rights reserved.
+Copyright (c) 2018. All rights reserved.
 
 Kalliope is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, as long as you provide back attribution and "don't hold you liable". For the full license text see the LICENSE.md file.
