@@ -33,7 +33,9 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 - name: "say-me-something"
   signals:
     - order: "say me something"
+    - order: "dis-moi quelque chose"
     - order: "speak to me"
+    - order: "parle-moi"
   neurons:
     - sqlite_random:
         base: /home/pi/kalliope_fr/resources/db/FortunesDB.db
