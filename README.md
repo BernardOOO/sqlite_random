@@ -50,7 +50,7 @@ kalliope install --git-url https://github.com/BernardOOO/sqlite_random.git
 
 ## Notes
 
-> **Note:** The FortunesDB.db i provide is an exemple, made from Debian packages "Fortune" and "Fortune-fr".
+> **Note:** The FortunesDB.db i provide is an example, made from Debian packages "Fortune" and "Fortune-fr".
 
 ## Licence
 
